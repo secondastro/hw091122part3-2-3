@@ -3,7 +3,7 @@ import Passport.DataBase;
 import Passport.Passport;
 
 
-public class Main {
+public class  Main {
     public static void main(String[] args) {
         TaskSet taskSet = new TaskSet();
         System.out.println(taskSet);

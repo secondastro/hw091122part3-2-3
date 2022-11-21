@@ -9,7 +9,7 @@ public class Passport {
     private String lastname;
     private String birthDate;
 
-    public Passport(int number, String surname, String firstname, String birthDate) {
+    public Passport(int number,  String surname, String firstname, String birthDate) {
 
         this.number = number;
 

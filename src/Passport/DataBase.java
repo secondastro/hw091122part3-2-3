@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class DataBase {
 
-    private final Set<Passport> dataBase = new HashSet<>();
+    private final Set<Passport>  dataBase = new HashSet<>();
 
     public Passport find(int number) {
         for (Passport passport : dataBase) {

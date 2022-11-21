@@ -2,7 +2,7 @@ package Arithmetics;
 
 import java.util.Objects;
 
-public class Task {
+public class  Task {
 
     private final int value1;
     private final int value2;
